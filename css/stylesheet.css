@@ -1,9 +1,53 @@
 .title {
-    color: #00000;
+    color: darkcyan;
+    /* border-color: white;
+    border: 5px 5px;
     border-width: 5px;
-    border-left: 0px;
-    border-right: 0px;
-    border-color: #00000;
+    border-color: white;
     border-style: dotted;
-    padding: 10px 0px;
+    border-radius: 40px; */
+    padding: 20px 40px;
+    font-family: 'Rock Salt', cursive;
+    font-size: 3.2em;
+}
+
+
+#social-icons {
+  font-size: 35px;
+  padding: 10px 20px;
+}
+
+
+.profilepic {
+
+border-radius: 50px;
+display: block;
+margin-right: auto;
+margin-left: auto;
+position: relative;
+height: auto;
+width: auto;
+
+
+}
+
+.aboutme {
+  font-family: 'Rock Salt', cursive;
+  font-size: 0.75em;
+  position: relative;
+  height: auto;
+  width: auto;
+
+}
+
+
+.subtitle {
+  font-family: 'Rock Salt', cursive;
+  background-color: darkcyan;
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+
+#list {
+  line-height: 30px;
 }
