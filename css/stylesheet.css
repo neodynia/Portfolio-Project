@@ -11,6 +11,20 @@
     font-size: 3.2em;
 }
 
+h6 {
+  font-family: 'Rock Salt', cursive;
+}
+
+.spanclass {
+  font-family: 'Rock Salt', cursive;
+  position: relative;
+  width: auto;
+  height: auto;
+  padding: 20px 40px 20px 40px;
+  line-height: normal;
+
+}
+
 
 #social-icons {
   font-size: 35px;
@@ -71,4 +85,18 @@ a:hover {
 
 .aboutme:hover {
   color: darkcyan;
+}
+
+.centerobj {
+  positon: relative;
+  width: auto;
+  height: auto;
+  line-height: normal;
+  border: 20px;
+  padding: 10px;
+}
+
+.sr-only {
+  color: white;
+  font-family: 'Rock Salt', cursive;
 }
